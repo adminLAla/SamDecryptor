@@ -29,7 +29,7 @@
 在开始之前，请确保您已经：
 1.  下载并安装了《In Falsus Demo》。
 2.  找到了游戏的安装目录（通常在 Steam 库 -> 右键游戏 -> 管理 -> 浏览本地文件）。
-3.  准备好了本工具提供的修改版 `Game.dll` 和 `SamDecryptor.dll`以及**`StreamingAssetsMapping.json`**（文件名映射表）。
+3.  准备好了本工具提供的修改版 `Game.dll` 和 `SamDecryptor.dll`以及**StreamingAssetsMapping.json**（文件名映射表）。
 
 ---
 
